@@ -2,3 +2,22 @@
 Lowpass.docx
 FM Radio Receiver with Digital Demodulation_Page_03_Page_17.jpg
 FM Radio Receiver with Digital Demodulation_Page_03_Page_16.jpg
+*.dll
+*.pdb
+*.exe
+Digital Filter Test\obj\*
+Digital Filter Test\bin\*
+Digital Filter Test/obj/x86/Debug/MainWindow.g.i.cs
+Digital Filter Test/obj/x86/Debug/MainWindow.g.cs
+Digital Filter Test/obj/x86/Debug/MainWindow.baml
+Digital Filter Test/obj/x86/Debug/Digital_Filter_Test.Properties.Resources.resources
+Digital Filter Test/obj/x86/Debug/Digital Filter Test_MarkupCompile.i.cache
+Digital Filter Test/obj/x86/Debug/Digital Filter Test_MarkupCompile.cache
+Digital Filter Test/obj/x86/Debug/Digital Filter Test.g.resources
+Digital Filter Test/obj/x86/Debug/Digital Filter Test.csproj.GenerateResource.Cache
+Digital Filter Test/obj/x86/Debug/Digital Filter Test.csproj.FileListAbsolute.txt
+Digital Filter Test/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Digital Filter Test/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
+Digital Filter Test/obj/x86/Debug/App.g.i.cs
+Digital Filter Test/obj/x86/Debug/App.g.cs
+Digital Filter Test/bin/Debug/Digital Filter Test.vshost.exe.manifest
